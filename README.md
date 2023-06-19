@@ -1,11 +1,11 @@
-About r-flux
-============
+About r-flux-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-flux-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=flux
 
 Package license: GPL-2.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-flux-feedstock/blob/main/LICENSE.txt)
 
 Summary: Functions for the calculation of greenhouse gas flux rates  from closed chamber concentration measurements. The package follows  a modular concept: Fluxes can be calculated in just two simple steps  or in several steps if more control in details is wanted. Additionally  plot and preparation functions as well as functions for modelling gpp and reco are provided.
 
